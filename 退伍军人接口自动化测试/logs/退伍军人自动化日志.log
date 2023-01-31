@@ -1,0 +1,113 @@
+2023-01-30 15:08:02,007-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:08:02,008-[test_create.py-->line:31]-INFO:发起请求的地址是：http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:08:02,090-[test_create.py-->line:97]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:12:48,730-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:12:48,731-[test_create.py-->line:31]-INFO:发起请求的地址是：http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:12:48,778-[test_create.py-->line:73]-WARNING:断言失败!响应消息为分发记录名称已经存在。
+2023-01-30 15:12:48,788-[test_create.py-->line:74]-WARNING:期望结果是200
+2023-01-30 15:12:48,788-[test_create.py-->line:75]-WARNING:响应结果是400
+2023-01-30 15:12:48,789-[test_create.py-->line:85]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:13:51,116-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:13:51,116-[test_create.py-->line:31]-INFO:发起请求的地址是：http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:13:51,158-[test_create.py-->line:73]-WARNING:断言失败!响应消息为分发记录名称已经存在。
+2023-01-30 15:13:51,159-[test_create.py-->line:74]-WARNING:期望结果是200
+2023-01-30 15:13:51,159-[test_create.py-->line:75]-WARNING:响应结果是400
+2023-01-30 15:13:51,159-[test_create.py-->line:85]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:14:11,458-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:14:11,459-[test_create.py-->line:31]-INFO:发起请求的地址是：http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:14:11,496-[test_create.py-->line:73]-WARNING:断言失败!响应消息为分发记录名称已经存在。
+2023-01-30 15:14:11,496-[test_create.py-->line:74]-WARNING:期望结果是200
+2023-01-30 15:14:11,496-[test_create.py-->line:75]-WARNING:响应结果是400
+2023-01-30 15:14:11,496-[test_create.py-->line:85]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:35:17,082-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:35:17,082-[test_create.py-->line:31]-INFO:发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:35:17,264-[test_create.py-->line:66]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 15:35:17,264-[test_create.py-->line:68]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:38:19,248-[test_create.py-->line:30]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+2023-01-30 15:38:19,248-[test_create.py-->line:31]-INFO:发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:38:19,299-[test_create.py-->line:61]-WARNING:断言失败----期望结果是{'code': 200, 'message': '成功', 'data': None}-----响应结果是{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-30 15:38:19,299-[test_create.py-->line:68]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:47:37,757-[test_create.py-->line:35]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:47:37,866-[test_create.py-->line:70]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 15:47:37,866-[test_create.py-->line:72]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:50:26,453-[test_数据分发.py-->line:35]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:50:26,605-[test_数据分发.py-->line:70]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 15:50:26,605-[test_数据分发.py-->line:72]-INFO:--------------------用例【新建一个分发记录】测试结束--------------------
+2023-01-30 15:57:44,297-[test_数据分发.py-->line:35]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:57:44,453-[test_数据分发.py-->line:70]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 15:57:44,453-[test_数据分发.py-->line:72]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 15:57:44,537-[test_数据分发.py-->line:35]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 15:57:44,576-[test_数据分发.py-->line:70]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-30 15:57:44,577-[test_数据分发.py-->line:72]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:05:48,669-[test_数据分发.py-->line:35]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:05:48,781-[test_数据分发.py-->line:70]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 16:05:48,781-[test_数据分发.py-->line:72]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:05:48,866-[test_数据分发.py-->line:35]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:05:48,906-[test_数据分发.py-->line:70]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-30 16:05:48,906-[test_数据分发.py-->line:72]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:05:48,992-[test_数据分发.py-->line:35]-INFO:用例【名称为空格】开始测试,这是第【3】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:05:49,040-[test_数据分发.py-->line:70]-INFO:用例【名称为空格】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称不能为空', 'data': None}
+2023-01-30 16:05:49,041-[test_数据分发.py-->line:72]-INFO:<<<<<<<<<<<<<<<<<用例【名称为空格】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:12:58,459-[test_数据分发.py-->line:34]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:12:58,595-[test_数据分发.py-->line:69]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 16:12:58,596-[test_数据分发.py-->line:71]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:12:58,678-[test_数据分发.py-->line:34]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:12:58,726-[test_数据分发.py-->line:69]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-30 16:12:58,726-[test_数据分发.py-->line:71]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:12:58,811-[test_数据分发.py-->line:34]-INFO:用例【名称为空格】开始测试,这是第【3】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:12:58,891-[test_数据分发.py-->line:69]-INFO:用例【名称为空格】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称不能为空', 'data': None}
+2023-01-30 16:12:58,892-[test_数据分发.py-->line:71]-INFO:<<<<<<<<<<<<<<<<<用例【名称为空格】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:39:26,116-[test_数据分发.py-->line:36]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:39:26,213-[test_数据分发.py-->line:71]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-30 16:39:26,213-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:39:26,296-[test_数据分发.py-->line:36]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:39:26,339-[test_数据分发.py-->line:71]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-30 16:39:26,339-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:39:26,432-[test_数据分发.py-->line:36]-INFO:用例【名称为空格】开始测试,这是第【3】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:39:26,470-[test_数据分发.py-->line:71]-INFO:用例【名称为空格】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称不能为空', 'data': None}
+2023-01-30 16:39:26,470-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称为空格】测试结束>>>>>>>>>>>>>>>>>
+2023-01-30 16:39:26,561-[test_数据分发.py-->line:36]-INFO:用例【名称超界】开始测试,这是第【4】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-30 16:39:26,616-[test_数据分发.py-->line:66]-WARNING:断言失败----期望结果是>>>>>>>:{'code': 400, 'message': '长度过长', 'data': None}-----响应结果是>>>>>>>:{'code': 400, 'message': "\r\n### Error updating database.  Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1\r\n### The error may exist in org/mindrive/system/dao/mapper/ArchiveDistributeBatchRecordMapper.java (best guess)\r\n### The error may involve org.mindrive.system.dao.mapper.ArchiveDistributeBatchRecordMapper.insert-Inline\r\n### The error occurred while setting parameters\r\n### SQL: INSERT INTO ARCHIVE_DISTRIBUTE_BATCH_RECORD  ( ID, `organization_id`, `no`, `prefix`, `index`, `name`, `remark`, `status`, `creator`, `created_at` )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )\r\n### Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1\n; Data truncation: Data too long for column 'NAME' at row 1; nested exception is com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1", 'data': None}
+2023-01-30 16:39:26,616-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称超界】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:24,113-[test_数据分发.py-->line:36]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:24,246-[test_数据分发.py-->line:71]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-31 09:59:24,246-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:24,329-[test_数据分发.py-->line:36]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:24,372-[test_数据分发.py-->line:71]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-31 09:59:24,372-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:24,457-[test_数据分发.py-->line:36]-INFO:用例【名称为空格】开始测试,这是第【3】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:24,499-[test_数据分发.py-->line:71]-INFO:用例【名称为空格】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称不能为空', 'data': None}
+2023-01-31 09:59:24,499-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称为空格】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:24,583-[test_数据分发.py-->line:36]-INFO:用例【名称超界】开始测试,这是第【4】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:24,644-[test_数据分发.py-->line:66]-WARNING:断言失败----期望结果是>>>>>>>:{'code': 400, 'message': '长度过长', 'data': None}-----响应结果是>>>>>>>:{'code': 400, 'message': "\r\n### Error updating database.  Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1\r\n### The error may exist in org/mindrive/system/dao/mapper/ArchiveDistributeBatchRecordMapper.java (best guess)\r\n### The error may involve org.mindrive.system.dao.mapper.ArchiveDistributeBatchRecordMapper.insert-Inline\r\n### The error occurred while setting parameters\r\n### SQL: INSERT INTO ARCHIVE_DISTRIBUTE_BATCH_RECORD  ( ID, `organization_id`, `no`, `prefix`, `index`, `name`, `remark`, `status`, `creator`, `created_at` )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )\r\n### Cause: com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1\n; Data truncation: Data too long for column 'NAME' at row 1; nested exception is com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'NAME' at row 1", 'data': None}
+2023-01-31 09:59:24,645-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称超界】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:55,798-[test_数据分发.py-->line:36]-INFO:用例【新建一个分发记录】开始测试,这是第【1】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:55,880-[test_数据分发.py-->line:71]-INFO:用例【新建一个分发记录】测试通过-----------响应消息为{'code': 200, 'message': '成功', 'data': None}
+2023-01-31 09:59:55,880-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【新建一个分发记录】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:55,971-[test_数据分发.py-->line:36]-INFO:用例【名称重复】开始测试,这是第【2】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:56,039-[test_数据分发.py-->line:71]-INFO:用例【名称重复】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称已经存在。', 'data': None}
+2023-01-31 09:59:56,039-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称重复】测试结束>>>>>>>>>>>>>>>>>
+2023-01-31 09:59:56,123-[test_数据分发.py-->line:36]-INFO:用例【名称为空格】开始测试,这是第【3】条用例
+发起请求的地址是------>:http://192.168.0.253:8080/gateways/archive-distribute/create
+2023-01-31 09:59:56,166-[test_数据分发.py-->line:71]-INFO:用例【名称为空格】测试通过-----------响应消息为{'code': 400, 'message': '分发记录名称不能为空', 'data': None}
+2023-01-31 09:59:56,166-[test_数据分发.py-->line:73]-INFO:<<<<<<<<<<<<<<<<<用例【名称为空格】测试结束>>>>>>>>>>>>>>>>>
